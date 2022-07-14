@@ -2,16 +2,11 @@
 
 #### Criar um menu que quando for clicado ele fecha, quando clicado novamente ele abre.
 
+[<img src="img/tela-menu-navegacao1.gif">]
+
 [<img src="img/tela1.png">]
 
-[<img src="img/tela2.png">]
 
-
-
-
-[<img src="img/tela-projeto-desafio-programção.gif">]
-
-[<img src="img/tela-menu-navegacao.gif">]
 
 ### Tecnologias Utilizadas 
 
